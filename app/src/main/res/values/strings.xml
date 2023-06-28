@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E2M5</string>
+    <string name="consulta">¿Reconoces a las personas en esta imagen?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+
+</resources>
